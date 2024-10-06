@@ -132,14 +132,10 @@ Example:
 
 ---
 
-## License
-
-TraversalForge is released under the [MIT License](LICENSE).
-
 # Disclaimer
 
 > Before using this software, you agree to the terms outlined in our [SECURITY.md](SECURITY.md) policy.
 
----
+## License
 
-Happy hacking! 🛡️
+TraversalForge is released under the [MIT License](LICENSE).
